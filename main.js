@@ -66,30 +66,3 @@ const reset = () => {
 changeBtn.addEventListener('click', swap)
 convBtn.addEventListener('click', conversion)
 resetBtn.addEventListener('click', reset)
-//
-sasadsd
-/////
-/////
-asdasasasd
-///asas
-//asfasf/
-
-/
-//efqfqwf//feww//
-/fqe/f/wef/wf
-/fw/ef/d
-
-/
-//efqfqwf//feww//
-/fqe/f/wef/wf
-/fw/ef/d
-
-/
-//efqfqwf//feww//
-/fqe/f/wef/wf
-/fw/ef/d
-
-/
-//efqfqwf//feww//
-/fqe/f/wef/wf
-/fw/ef/d
